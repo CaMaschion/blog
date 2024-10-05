@@ -1,9 +1,9 @@
-baseURL = 'http://brunosalmeida.com/'
+baseURL = 'http://camilamaschion.com/'
 copyright = "{year}"
 languageCode = 'pt-BR'
 defaultContentLanguage = 'en'
 theme = 'clean-theme'
-title = 'Eu sou o Bruno'
+title = 'Eu sou a Camila'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
