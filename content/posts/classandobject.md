@@ -9,6 +9,8 @@ Recentemente resolvi "voltar duas casas" nos meus estudos e revisitar os conceit
 
 ---
 
+Esse é um resumo do primeiro capítulo:
+
 ### **Objeto e Classe**
 
 Um **objeto** é uma **instância** de uma classe. 
@@ -68,5 +70,7 @@ Entretanto, quando estamos programando um sistema básico para gerenciar uma con
 A abstração nos permite **focar apenas nos aspectos importantes para o nosso problema específico**.
 
 Exemplo: para focarmos nos comportamentos de saque e depósito básicos, podemos abstrair histórico de transações, taxas bancárias, histórico de crédito, porque esses detalhes não são essenciais para o problema específico que é apenas sacar ou depositar.
+
+---
 
 Bom, aqui será como o meu "bloquinho de notas" para fixar conhecimento e quem sabe seja útil para quem tiver interesse em estudar sobre o tema também.
