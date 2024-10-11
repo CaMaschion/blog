@@ -6,4 +6,4 @@ draft: false # Set 'false' to publish
 
 Teste
 
-![classandobject.png](diagrama.png)
+![classandobject.png](teste/diagrama.png)
