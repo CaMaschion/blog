@@ -8,8 +8,6 @@ Recentemente resolvi "voltar duas casas" nos meus estudos e revisitar os conceit
 
 ---
 
-Esse é um resumo do primeiro capítulo:
-
 ### **Objeto e Classe**
 
 Um **objeto** é uma **instância** de uma classe. 
@@ -20,6 +18,8 @@ Quando criamos um objeto a partir de uma classe, estamos criando uma entidade re
 
 - **Estado** refere-se aos dados ou atributos que um objeto possui em um determinado momento. No exemplo de uma conta bancária, o estado de uma conta é seu **saldo** atual.
 - **Comportamento** refere-se às ações que um objeto pode realizar. No exemplo da conta bancária por exemplo, os comportamentos são os métodos que permitem **depositar**, **sacar** e **consultar o saldo**.
+
+![Diagrama](/images/diagrama.png)
 ---
 
 ### Princípios da Programação Orientada a Objetos (POO)

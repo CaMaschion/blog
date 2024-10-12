@@ -6,7 +6,8 @@ theme = 'clean-theme'
 title = 'É Mas-ki-on!'
 enableRobotsTXT = true
 summaryLength = 15
-paginate = 5
+paginate = 5 
+staticDir = ['static']
 
 [services]
 [services.googleAnalytics]
