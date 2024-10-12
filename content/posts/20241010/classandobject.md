@@ -3,7 +3,6 @@ title: "Classe, objeto e princípios da programação orientada a objetos"
 date: 2024-07-29T18:55:31+01:00
 draft: false # Set 'false' to publish
 ---
-## Classe, objeto e princípios da programação orientada a objetos
 
 Recentemente resolvi "voltar duas casas" nos meus estudos e revisitar os conceitos fundamentais de programação orientada a objetos (POO) através da leitura do livro  "The Object-Oriented Thought Process" de Matt Weisfeld.
 
