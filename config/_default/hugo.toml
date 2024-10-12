@@ -3,11 +3,14 @@ copyright = "{year}"
 languageCode = 'pt-BR'
 defaultContentLanguage = 'en'
 theme = 'clean-theme'
-title = 'Notas de Android: Registro de Estudo e Ideias Tech'
+title = 'É Mas-ki-on!'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
 
+[services]
+[services.googleAnalytics]
+id = ''
 
 [markup]
   [markup.highlight]
