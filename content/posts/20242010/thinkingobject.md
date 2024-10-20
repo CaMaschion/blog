@@ -76,3 +76,5 @@ Programa: carrinho de brinquedo.
 No desenvolvimento do carrinho de brinquedo, seguimos uma abordagem orientada a objetos que separa a interface da implementação. As funções `moverFrente()` e `virarEsquerda()` formam a interface, permitindo que o usuário controle o carrinho sem conhecer os detalhes de como o nível de bateria é gerido internamente, o que faz parte da **implementação** (oculta do usuário). A interface foi projetada para ser mínima, oferecendo apenas os métodos essenciais para o controle básico do carrinho.
 
 O usuário identificado é alguém que controla o carrinho, e os comportamentos do objeto incluem mover-se para frente e virar à esquerda, ações diretamente acessíveis pelas **interfaces públicas**. A implementação interna, como a lógica que reduz a bateria, pode ser alterada sem afetar a forma como o usuário interage com o carrinho.
+
+![Diagrama](/images/diagrama2.png)
