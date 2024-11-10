@@ -56,12 +56,12 @@ Programa: carrinho de brinquedo.
 
     inteiro nivelBateria = 100
     
-    funcao cadeia moverFrente() {
+    funcao moverFrente() {
         nivelBateria = nivelBateria - 10  
         retorne "O carro se move para frente! Nível de bateria: " + nivelBateria + "%"
     }
 
-    funcao cadeia virarEsquerda() {
+    funcao virarEsquerda() {
         nivelBateria = nivelBateria - 5 
         retorne "O carro vira à esquerda! Nível de bateria: " + nivelBateria + "%"
     }
