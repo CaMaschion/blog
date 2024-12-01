@@ -1,7 +1,7 @@
 ---
 title: "Como pensar em termos de objetos"
 date: 2024-07-29T18:55:31+01:00
-draft: false # Set 'false' to publish
+draft: true # Set 'false' to publish
 ---
 
 O objetivo final do design de orientação a objetos é construir um modelo de objetos robusto e funcional que represente todo o sistema. 
