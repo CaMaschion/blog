@@ -109,24 +109,6 @@ It’s perfect for periodic sync, scheduled uploads, retries, and long-running b
 
 ---
 
-## 🍽 The Kitchen Analogy
-
-Think of your app as a restaurant:
-
-* The **main thread** is the head chef — fast, precise, dealing directly with customers (UI).
-* If the head chef also tries to fetch ingredients (network), do inventory (database/files), and cook complex dishes (heavy computation)… the kitchen collapses. Customers wait, frustration grows, and eventually the system calls an ANR.
-
-With coroutines, flows, and WorkManager, you’re essentially hiring a well-organized kitchen staff:
-
-* I/O team → networking, DB, files
-* CPU team → heavy processing
-* Head chef → UI updates only
-* Background specialists → WorkManager tasks that continue even when the restaurant closes
-
-The result is a smooth, responsive, scalable app — and happy “customers.”
-
----
-
 ## Official Sources
 
 **Processes and Threads — Android Developers**
