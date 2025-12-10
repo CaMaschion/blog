@@ -1,7 +1,7 @@
 ---
 title: "The Great Android Kitchen: A Story About Multithreading"
 date: 2025-12-09T18:55:31+01:00
-draft: false
+draft: true
 tags: ["Android", "Kotlin", "Multithreading", "Coroutines", "Clean Architecture"]
 categories: ["Android Development"]
 ---
