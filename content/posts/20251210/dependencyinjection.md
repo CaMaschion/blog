@@ -1,7 +1,7 @@
 ---
 title: "Understanding Dependency Injection in Android"
 date: 2025-12-10T09:00:00+01:00
-draft: true
+draft: false
 tags: ["Android", "Kotlin", "Dependency Injection", "Hilt", "Dagger", "Clean Architecture"]
 categories: ["Android Development"]
 ---
